@@ -1,16 +1,44 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "personal-website",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 3\n\n[1] 4"
+    "objectID": "Projects.html#project-2",
+    "href": "Projects.html#project-2",
+    "title": "Shuaiheng Tao's Personal Website",
+    "section": "Project 2",
+    "text": "Project 2\nHere is my Project 1"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shuaiheng Tao",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.7372781 0.1485165 0.4057156 0.3327270 0.5863183 0.7445898 0.2808154\n [8] 0.3343777 0.4959080 0.1833538"
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.\nDOWNLOAD Resume DOWNLOAD Profile"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Shuaiheng Tao",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Shuaiheng Tao",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Shuaiheng Tao's Personal Website",
+    "section": "",
+    "text": "Here is my Project 1"
+  },
+  {
+    "objectID": "Projects.html#project-1",
+    "href": "Projects.html#project-1",
+    "title": "Shuaiheng Tao's Personal Website",
+    "section": "",
+    "text": "Here is my Project 1"
   }
 ]
