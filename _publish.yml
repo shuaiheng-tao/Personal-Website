@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: d6a1900b-9e34-446a-94cc-4c61c512e69c
+      url: 'https://shuaihengtao.netlify.app'
