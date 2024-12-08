@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-subtitle','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -178,43 +178,67 @@ window.Quarto = {
 
 
 
-<section id="project-1" class="level2">
-<h2 class="anchored" data-anchor-id="project-1">Project 1</h2>
-<p>Here is my <a href="C:/Users/14555/Desktop/personal-website/Projects/01-project.qmd">Project 1</a></p>
-</section>
-<section id="project-2" class="level2">
-<h2 class="anchored" data-anchor-id="project-2">Project 2</h2>
-<p>Here is my <a href="C:/Users/14555/Desktop/personal-website/Projects/02-project.qmd">Project 1</a></p>
 <div class="project-listing">
 
 </div>
 
 
 
-</section>
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-project-listing">
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-Title
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-listing-file-modified-sort="1733691544914" data-listing-filename-sort="01-project.qmd">
-<td>
-<a href="./Projects/01-project.html" class="title listing-title">&nbsp;</a>
-</td>
-</tr>
-<tr data-index="1" data-listing-file-modified-sort="1733693265024" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Project 2" data-listing-filename-sort="02-project.qmd">
-<td>
-<a href="./Projects/02-project.html" class="title listing-title">Project 2</a>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="quarto-listing quarto-listing-container-grid" id="listing-project-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1733697619190" data-listing-reading-time-sort="1" data-listing-word-count-sort="117">
+<a href="./Projects/01-project.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./Projects/images/p1.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Project 1
+</h5>
+<div class="card-subtitle listing-subtitle">
+Poverty Rate Analysis
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1733697631356" data-listing-reading-time-sort="1" data-listing-word-count-sort="95">
+<a href="./Projects/02-project.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./Projects/images/p2.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Project 2
+</h5>
+<div class="card-subtitle listing-subtitle">
+Island Experiment Project
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1733697645965" data-listing-reading-time-sort="1" data-listing-word-count-sort="18">
+<a href="./Projects/03-project.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./Projects/images/p3.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Project 3
+</h5>
+<div class="card-subtitle listing-subtitle">
+Primary Productivity in Coastal Waters
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>

@@ -1,0 +1,8 @@
+---
+title: Project 1
+subtitle: Poverty Rate Analysis 
+image: images/p1.png
+---
+For this project,  Our question of interest would be that, based on the Seda dataset in 2018, what is the relationship between the Unemployment rate and factors such as Median income, Locale, Poverty rate, SNAP rate, and Socioeconomic index? The motivation is to understand the relationship between the Unemployment rate and socioeconomic factors is crucial for analyzing the dynamics of labor markets and identifying key determinants of employment outcomes. By examining the impact of the Median income, Locale, Poverty rate, SNAP rate, and Socioeconomic index on the Unemployment rate, we can gain insights into the complex interplay between these variables and their influence on employment opportunities and economic well-being.
+
+Here is the pdf for our report: [Report]("C:\Users\14555\Desktop\personal-website\Projects\final_project.pdf")

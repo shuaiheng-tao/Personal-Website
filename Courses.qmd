@@ -1,0 +1,30 @@
+---
+title: Relevant Coursework
+---
+
+# Statistics and Data Science:
+- Introduction to Data Science
+- Probability & Statistics
+- Regression Analysis
+- Data Science Concepts & Analysis
+- Linear Models
+- Bayesian Statistics
+- Computational Statistics with R
+- Design and Analysis of Experiment
+- Computation and Optimization for Statistics
+- Statistical Models and Data Mining
+- Monte Carlo Methods
+- Statistical Consulting
+
+# Mathematics
+- Multivariate Calculus
+- Differential Equations
+- Discrete Math
+- Real Analysis
+- Advanced Linear Algebra
+- Matrix Analysis
+- Abstract Algebra
+
+# Computer Science
+- Intermediate Python
+- Introduction to C++

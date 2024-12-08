@@ -7,20 +7,13 @@ listing:
     sort: false
     sort-ui: false
     filter-ui: false
-    type: table
+    type: grid
     fields: 
       - title
+      - subtitle
+      - image
     categories: false
 ---
-
-
-## Project 1
-
-Here is my [Project 1](C:/Users/14555/Desktop/personal-website/Projects/01-project.qmd)
-
-## Project 2
-
-Here is my [Project 1](C:/Users/14555/Desktop/personal-website/Projects/02-project.qmd)
 
 :::project-listing
 :::

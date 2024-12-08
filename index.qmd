@@ -15,22 +15,22 @@ about:
 toc: false
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+Shuaiheng Tao is a senior student at UCLA majoring in Statistics and Data Science & Mathematics. He is currently applying to graduate schools in Data Science or Statistics. Here is the detailed resume. [Resume](/Resume.pdf)
 
 
-DOWNLOAD [Resume](/Resume.pdf)
-DOWNLOAD [Profile](/profile.jpg )
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+University of California, Los Angeles| Los Angeles, CA
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
+BS in Statistics and Data Science & Mathematics | Sept 2023 - March 2025
+
+University of California, Santa Barbara | Santa Barbara, CA
+
+Completed Coursework in Statistics and Data Science & Mathematics | Sept 2021 - June 2023
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+JD.com | Data Scientist Intern | July 2024 - September 2024 | Beijing, China
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+Hengzheng Tax Agency | Data Analyst Intern | June 2024 - August 2024 | Huizhou, China

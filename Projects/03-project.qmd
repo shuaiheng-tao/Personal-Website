@@ -1,0 +1,10 @@
+---
+title: Project 3
+subtitle: Primary Productivity in Coastal Waters
+image: images/p3.png
+---
+
+In this project,  I did an exploratory analysis of primary productivity in coastal
+waters.
+
+Here is the report [Report]("C:\Users\14555\Desktop\personal-website\Projects\mp2-ncca.pdf")

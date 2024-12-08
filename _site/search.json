@@ -1,44 +1,58 @@
 [
   {
-    "objectID": "Projects.html#project-2",
-    "href": "Projects.html#project-2",
+    "objectID": "Projects.html",
+    "href": "Projects.html",
     "title": "Shuaiheng Tao's Personal Website",
-    "section": "Project 2",
-    "text": "Project 2\nHere is my Project 1"
+    "section": "",
+    "text": "Project 1\n\n\nPoverty Rate Analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 2\n\n\nIsland Experiment Project\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 3\n\n\nPrimary Productivity in Coastal Waters\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Projects/02-project.html",
+    "href": "Projects/02-project.html",
+    "title": "Project 2",
+    "section": "",
+    "text": "In this project, we explore the effects of cardiovascular exercise on memory performance within the virtual landscape of The Islands. Specifically, we are looking to compare how various duration of exercise impact memory and if memory is affected at all. Our interest in exploring this topic relates to our group members’ backgrounds in physical activity and cognitive science. One of our group members heard that running could potentially lead to benefits in the phenomenon known as “runner’s high” so we chose to set up an experiment to explore this idea further.\nHere is the report Report"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Shuaiheng Tao",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.\nDOWNLOAD Resume DOWNLOAD Profile"
+    "text": "Shuaiheng Tao is a senior student at UCLA majoring in Statistics and Data Science & Mathematics. He is currently applying to graduate schools in Data Science or Statistics. Here is the detailed resume. Resume"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Shuaiheng Tao",
     "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+    "text": "Education\nUniversity of California, Los Angeles| Los Angeles, CA\nBS in Statistics and Data Science & Mathematics | Sept 2023 - March 2025\nUniversity of California, Santa Barbara | Santa Barbara, CA\nCompleted Coursework in Statistics and Data Science & Mathematics | Sept 2021 - June 2023"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Shuaiheng Tao",
     "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+    "text": "Experience\nJD.com | Data Scientist Intern | July 2024 - September 2024 | Beijing, China\nHengzheng Tax Agency | Data Analyst Intern | June 2024 - August 2024 | Huizhou, China"
   },
   {
-    "objectID": "Projects.html",
-    "href": "Projects.html",
-    "title": "Shuaiheng Tao's Personal Website",
+    "objectID": "Courses.html",
+    "href": "Courses.html",
+    "title": "Relevant Coursework",
     "section": "",
-    "text": "Here is my Project 1"
+    "text": "Statistics and Data Science:\n\nIntroduction to Data Science\nProbability & Statistics\nRegression Analysis\nData Science Concepts & Analysis\nLinear Models\nBayesian Statistics\nComputational Statistics with R\nDesign and Analysis of Experiment\nComputation and Optimization for Statistics\nStatistical Models and Data Mining\nMonte Carlo Methods\nStatistical Consulting\n\n\n\nMathematics\n\nMultivariate Calculus\nDifferential Equations\nDiscrete Math\nReal Analysis\nAdvanced Linear Algebra\nMatrix Analysis\nAbstract Algebra\n\n\n\nComputer Science\n\nIntermediate Python\nIntroduction to C++"
   },
   {
-    "objectID": "Projects.html#project-1",
-    "href": "Projects.html#project-1",
-    "title": "Shuaiheng Tao's Personal Website",
+    "objectID": "Projects/01-project.html",
+    "href": "Projects/01-project.html",
+    "title": "Project 1",
     "section": "",
-    "text": "Here is my Project 1"
+    "text": "For this project, Our question of interest would be that, based on the Seda dataset in 2018, what is the relationship between the Unemployment rate and factors such as Median income, Locale, Poverty rate, SNAP rate, and Socioeconomic index? The motivation is to understand the relationship between the Unemployment rate and socioeconomic factors is crucial for analyzing the dynamics of labor markets and identifying key determinants of employment outcomes. By examining the impact of the Median income, Locale, Poverty rate, SNAP rate, and Socioeconomic index on the Unemployment rate, we can gain insights into the complex interplay between these variables and their influence on employment opportunities and economic well-being.\nHere is the pdf for our report: Report"
+  },
+  {
+    "objectID": "Projects/03-project.html",
+    "href": "Projects/03-project.html",
+    "title": "Project 3",
+    "section": "",
+    "text": "In this project, I did an exploratory analysis of primary productivity in coastal waters.\nHere is the report Report"
   }
 ]
