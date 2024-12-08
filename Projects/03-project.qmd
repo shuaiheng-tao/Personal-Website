@@ -7,4 +7,4 @@ image: images/p3.png
 In this project,  I did an exploratory analysis of primary productivity in coastal
 waters.
 
-Here is the report [Report]("C:\Users\14555\Desktop\personal-website\Projects\mp2-ncca.pdf")
+Here is the Github link for our PDF: [Report](https://github.com/shuaiheng-tao/Personal-Website/blob/335fd1c33505bff8ce60926ca053df31b6bb8256/Projects/mp2-ncca.pdf)
